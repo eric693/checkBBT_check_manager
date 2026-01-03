@@ -2,7 +2,7 @@
 
 const API_CONFIG = {
   // 正式環境的 API URL
-  apiUrl: "https://script.google.com/macros/s/AKfycby4ou1tRuzJ7lwIcPPLiy8iwrhx8ZC_vj7bqY2eBPZM1W_4aaU1ZrcY0IYKnWPOlfHB/exec",
+  apiUrl: "https://script.google.com/macros/s/AKfycbxIPPa1pG1Ac-SY6U7M1Eki4dsvMFicRax39ahRns6jmrFZNq0b0yrfqZiP3h7UYMM_Yw/exec",
   
   // 新增回呼網址
   redirectUrl: "https://eric693.github.io/checkBBT_check_manager/"
